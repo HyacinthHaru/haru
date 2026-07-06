@@ -1,0 +1,13 @@
+{
+  "tip_line": "小贴士：{tip}",
+  "unit_one": "次",
+  "unit_other": "次",
+  "patted": "你今天摸了 Haru {n}{unit}。",
+  "fed": "你今天喂了 Haru {n}{unit}。",
+  "status": "Haru 状态\n\n心情：{mood}\n今日抚摸：{pats}   今日投喂：{feeds}\n累计抚摸：{total_pats}  累计投喂：{total_feeds}\n上次见面：{last_seen}",
+  "never": "还没见过",
+  "mood_waiting": "等你来",
+  "mood_happy": "开心",
+  "mood_purring": "呼噜噜",
+  "mood_spoiled": "被宠坏了"
+}

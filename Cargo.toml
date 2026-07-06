@@ -1,0 +1,21 @@
+[package]
+name = "haru"
+version = "1.0.0"
+edition = "2024"
+description = "A tiny terminal cat companion."
+license = "MIT"
+repository = "https://github.com/HyacinthHaru/haru"
+readme = "README.md"
+
+[[bin]]
+name = "haru"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+directories = "5"
+rand = "0.8"
+chrono = "0.4"
+sys-locale = "0.3"

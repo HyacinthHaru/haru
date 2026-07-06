@@ -1,0 +1,51 @@
+# haru tips — one per line. Lines starting with # are ignored.
+# Edit freely: add, remove, reorder. Keep them short and kind.
+drink water before debugging. the bug can wait, your kidneys cannot.
+commit before you experiment with reality.
+your shell history knows too much. be proud anyway.
+meow first, panic later.
+small progress is still progress.
+the terminal is not judging you. probably.
+stretch. even cats stretch before they conquer the keyboard.
+if it works, don't touch it. pet the cat instead.
+that error is not personal. it just has bad manners.
+save your work. entropy is undefeated.
+you are allowed to close the laptop and go outside.
+name things clearly. future you is a stranger with your password.
+the rubber duck believes in you. so does the cat.
+take a breath. the stack trace will still be there.
+blink. terminals do not moisturize your eyes.
+one more test never hurt. one less did.
+you don't have to finish tonight. cats never finish anything either.
+delete the dead code. it is not coming back.
+a warning ignored today is a bug adopted tomorrow.
+back up before you feel clever.
+green tests, warm tea, quiet mind.
+the best refactor is the one you can explain out loud.
+if you are stuck, describe the problem to the cat. slowly.
+rest is also part of the work.
+you showed up today. that already counts.
+be kind to the intern. the intern is often you.
+the cat does not know what you are building, but the cat supports you.
+Haru sits here and pretends to understand your code.
+this is not loneliness. this is pair programming with an ASCII cat.
+Haru finds this bug suspicious. Haru will not fix it.
+you type commands. the cat watches. teamwork.
+there is a cat in the terminal now. things could be worse.
+the cat will not solve the problem, but it will sit next to it.
+the world is not fixed, but the cat has appeared.
+your build failed, but the cat remains.
+Haru looked at the logs and chose to close its eyes.
+this error message reads like a riddle. how thoughtful.
+holding civilization together with strings again.
+the terminal was dark and cold, so we put a cat in it. reasonable.
+drink water before debugging.
+commit before arguing with reality.
+an error is not the end of the world. it is just the world speaking in red.
+you do not have to compile your whole life today.
+the terminal is not judging you. probably.
+small progress is still progress, annoyingly enough.
+save the file. humanity has suffered enough.
+rest for ten seconds. the bug will not evolve because you blinked.
+do not refactor your life at 3 a.m. or your codebase.
+your shell history knows too much.

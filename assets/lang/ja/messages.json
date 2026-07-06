@@ -1,0 +1,13 @@
+{
+  "tip_line": "ヒント：{tip}",
+  "unit_one": "回",
+  "unit_other": "回",
+  "patted": "今日は Haru を {n}{unit} なでた。",
+  "fed": "今日は Haru に {n}{unit} ごはんをあげた。",
+  "status": "Haru のステータス\n\n気分：{mood}\n今日のなで：{pats}   今日のごはん：{feeds}\nなで合計：{total_pats}  ごはん合計：{total_feeds}\n最後に会った日：{last_seen}",
+  "never": "まだ会ってない",
+  "mood_waiting": "待ってる",
+  "mood_happy": "ごきげん",
+  "mood_purring": "ごろごろ",
+  "mood_spoiled": "あまえんぼう"
+}

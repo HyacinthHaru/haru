@@ -1,0 +1,14 @@
+/target
+.DS_Store
+
+# ChatGPT / GPT exports (kept local, not published)
+*ChatGPT*
+GPT-*.md
+
+# Claude artifacts (kept local, not published)
+CLAUDE.md
+.claude/
+
+# Brainstorming / design notes (kept local, not published)
+ideas.md
+docs/DESIGN.md

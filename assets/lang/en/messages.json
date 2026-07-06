@@ -1,0 +1,13 @@
+{
+  "tip_line": "tip: {tip}",
+  "unit_one": "time",
+  "unit_other": "times",
+  "patted": "you patted Haru {n} {unit} today.",
+  "fed": "you fed Haru {n} {unit} today.",
+  "status": "Haru status\n\nmood: {mood}\npats today: {pats}   feeds today: {feeds}\ntotal pats: {total_pats}  total feeds: {total_feeds}\nlast seen: {last_seen}",
+  "never": "never",
+  "mood_waiting": "waiting",
+  "mood_happy": "happy",
+  "mood_purring": "purring",
+  "mood_spoiled": "spoiled"
+}
