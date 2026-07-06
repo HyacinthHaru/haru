@@ -22,3 +22,8 @@ directories = "5"
 rand = "0.8"
 chrono = "0.4"
 sys-locale = "0.3"
+
+# The profile that 'dist' will build with
+[profile.dist]
+inherits = "release"
+lto = "thin"
