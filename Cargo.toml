@@ -2,10 +2,11 @@
 name = "haru-cat"
 version = "1.0.0"
 edition = "2024"
-description = "A tiny terminal cat companion."
+description = "A tiny cat living in your terminal."
 license = "MIT"
 repository = "https://github.com/HyacinthHaru/haru"
 readme = "README.md"
+homepage = "https://haru.cat"
 
 [[bin]]
 name = "haru"
