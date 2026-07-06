@@ -24,12 +24,12 @@ fn main() {
     };
     let next = current.advance(&today, action);
 
-    if let Some(p) = &path {
-        if let Err(e) = next.save(p) {
-            eprintln!(
-                "haru: could not save state ({e}). your cat is fine, but this visit won't be remembered."
-            );
-        }
+    if let Some(p) = &path
+        && let Err(e) = next.save(p)
+    {
+        eprintln!(
+            "haru: could not save state ({e}). your cat is fine, but this visit won't be remembered."
+        );
     }
 
     let out = match action {

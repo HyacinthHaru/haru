@@ -217,7 +217,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "haru"
+name = "haru-cat"
 version = "1.0.0"
 dependencies = [
  "chrono",

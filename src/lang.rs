@@ -134,10 +134,10 @@ fn resolve_code(cli_lang: Option<&str>) -> String {
     if let Some(code) = cli_lang {
         return primary_subtag(code);
     }
-    if let Ok(code) = std::env::var("HARU_LANG") {
-        if !code.trim().is_empty() {
-            return primary_subtag(&code);
-        }
+    if let Ok(code) = std::env::var("HARU_LANG")
+        && !code.trim().is_empty()
+    {
+        return primary_subtag(&code);
     }
     if let Some(locale) = sys_locale::get_locale() {
         return primary_subtag(&locale);
