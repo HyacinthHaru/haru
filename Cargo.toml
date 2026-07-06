@@ -1,5 +1,5 @@
 [package]
-name = "haru"
+name = "haru-cat"
 version = "1.0.0"
 edition = "2024"
 description = "A tiny terminal cat companion."
