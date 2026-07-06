@@ -31,11 +31,9 @@ you, never decays, and never punishes you for being away.
 
 ## Languages
 
-Haru speaks English, 中文, and 日本語. It picks your language from the system locale
-automatically; override with `--lang en` / `--lang zh` / `--lang ja`, or the
-`HARU_LANG` environment variable. Region and script tags are matched by their
-primary subtag (`zh-CN`, `zh-TW` → `zh`). Each language lives in
-`assets/lang/<code>/` and is written by hand (not machine-translated) —
+Haru speaks English, 中文, and 日本語. 
+It picks your language from the system locale automatically; override with `--lang en` / `--lang zh` / `--lang ja`, or the
+`HARU_LANG` environment variable. Each language lives in `assets/lang/<code>/` and is written by hand (not machine-translated) —
 contributions welcome.
 
 ## Fully offline
