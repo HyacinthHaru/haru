@@ -58,3 +58,10 @@ cargo build --release
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Parts of this project’s code were generated with the assistance of AI,
+but the author has a fairly complete understanding of the codebase and overall program architecture.
+
+Contributions are welcome, whether in the form of code or copywriting 
+in different languages. Your improvements are greatly appreciated.
+
